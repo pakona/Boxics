@@ -1,0 +1,37 @@
+<Precision>0.2</Precision>
+
+<CompletionSquareData>
+<Position>6.5 3.4</Position>
+<Size>0.7</Size>
+</CompletionSquareData>
+
+<BoxAreasData>
+<Item>
+    <Position>2 1</Position>
+    <Width>2</Width>
+    <Height>1</Height>
+    <BoxScale>1</BoxScale>
+</Item>
+</BoxAreasData>
+
+<PlatformsData>
+<Item>
+    <Center>7 4.25</Center>
+    <Width>1.5</Width>
+    <Height>0.1</Height>
+    <IsStatic>false</IsStatic>
+    <Speed>1</Speed>
+    <From>7 4.25</From>
+    <To>5 4.25</To>
+</Item>
+</PlatformsData>
+
+<PropulsivePlatformsData>
+<Item>
+    <Center>2.4 3</Center>
+    <Width>1</Width>
+    <Height>0.1</Height>
+    <Rotation>0.6</Rotation>
+    <Force>3</Force>
+</Item>
+</PropulsivePlatformsData>
